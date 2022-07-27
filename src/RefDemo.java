@@ -17,7 +17,6 @@ public class RefDemo {
 //		Student jimin = new Student();
 //		jimin.name = hojun.name;
 //		jimin.age = hojun.age;
-		
 		Student jimin = hojun;
 		
 		System.out.printf("%s %d",jimin.name,jimin.age);

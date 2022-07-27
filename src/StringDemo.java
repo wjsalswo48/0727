@@ -13,6 +13,7 @@ public class StringDemo {
 		jimin.name="한지민";
 		jimin.age=26;
 		System.out.println("한지민 학생 정보");
+		
 		System.out.printf("이름 = %s, 나이 = %d \n",jimin.name,jimin.age);
 		
 		Student chulsu;
